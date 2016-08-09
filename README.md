@@ -1,7 +1,7 @@
 fireworks.js
 ============
 
-Particles engine in javascript
+Particles engine in javascriptz
 
 
 ChangeLog:
